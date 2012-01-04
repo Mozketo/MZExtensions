@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <licenseUrl>https://github.com/Mozketo/MZExtensions</licenseUrl>
+    <projectUrl>https://github.com/Mozketo/MZExtensions</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <copyright>Copyright 2012 Ben Clark-Robinson</copyright>
+    <tags>c# .net extension methods handy</tags>
+  </metadata>
+</package>

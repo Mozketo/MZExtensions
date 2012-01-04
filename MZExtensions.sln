@@ -14,18 +14,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 	EndProjectSection
 EndProject
 Global
-	GlobalSection(TeamFoundationVersionControl) = preSolution
-		SccNumberOfProjects = 3
-		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
-		SccTeamFoundationServer = https://tfs.codeplex.com/tfs/tfs29
-		SccLocalPath0 = .
-		SccProjectUniqueName1 = MZExtensions.Tests\\MZExtensions.Tests.csproj
-		SccProjectName1 = MZExtensions.Tests
-		SccLocalPath1 = MZExtensions.Tests
-		SccProjectUniqueName2 = MZExtensions\\MZExtensions.csproj
-		SccProjectName2 = MZExtensions
-		SccLocalPath2 = MZExtensions
-	EndGlobalSection
 	GlobalSection(TestCaseManagementSettings) = postSolution
 		CategoryFile = MZExtensions.vsmdi
 	EndGlobalSection

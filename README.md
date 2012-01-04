@@ -25,7 +25,7 @@ Please feel free to send me your favourite Extension Methods.
 
 #Installing via NuGet
 
-Easily add this package to your Project using NuGet. You can find the NuGet package [here](http://nuget.org/packages/MZTraceProfiler).
+Easily add this package to your Project using NuGet. You can find the NuGet package [here](https://nuget.org/packages/MZExtensions).
 	
 ## REQUIREMENTS:
 
