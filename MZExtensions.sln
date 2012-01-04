@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MZExtensions", "MZExtensions\MZExtensions.csproj", "{6B3E3D4D-12FB-4009-9427-ED9272B1E44F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MZExtensions.Tests", "MZExtensions.Tests\MZExtensions.Tests.csproj", "{549942B1-3366-43C1-92D0-9FB82DDCA22C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6D9D68F7-AA55-4279-ACBE-E5AE3FBD1A2C}"
+	ProjectSection(SolutionItems) = preProject
+		Local.testsettings = Local.testsettings
+		MZExtensions.vsmdi = MZExtensions.vsmdi
+		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+		WithCodeCoverage.testsettings = WithCodeCoverage.testsettings
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs.codeplex.com/tfs/tfs29
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = MZExtensions.Tests\\MZExtensions.Tests.csproj
+		SccProjectName1 = MZExtensions.Tests
+		SccLocalPath1 = MZExtensions.Tests
+		SccProjectUniqueName2 = MZExtensions\\MZExtensions.csproj
+		SccProjectName2 = MZExtensions
+		SccLocalPath2 = MZExtensions
+	EndGlobalSection
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = MZExtensions.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B3E3D4D-12FB-4009-9427-ED9272B1E44F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B3E3D4D-12FB-4009-9427-ED9272B1E44F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B3E3D4D-12FB-4009-9427-ED9272B1E44F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B3E3D4D-12FB-4009-9427-ED9272B1E44F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{549942B1-3366-43C1-92D0-9FB82DDCA22C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{549942B1-3366-43C1-92D0-9FB82DDCA22C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{549942B1-3366-43C1-92D0-9FB82DDCA22C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{549942B1-3366-43C1-92D0-9FB82DDCA22C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
